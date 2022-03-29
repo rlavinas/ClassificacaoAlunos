@@ -15,8 +15,7 @@ for (let contador = 0; contador < listaAlunos.length; contador++) {
 }
 */
 
-// PARTE 2 DO EXERCICIO
-/*
+// PARTE 2 DO EXERCICIO - ATIVIDADE ATUAL ENTREGUE
 let listaAlunos = ["Leonardo", "Robson", "Rafael", "Raiane"];
 
 let quantidadeAlunos = 5;
@@ -32,12 +31,13 @@ for (let contador = 0; contador < listaAlunos.length; contador++) {
         console.log(`O aluno ${listaAlunos[contador]} é o número ${contador} IMPAR`);
     }
 }
-*/
 
 // PARTE 3 DO EXERCICIO
+/*
 let respostaUsuario = "Sim"
 
 while (respostaUsuario == "Sim"){
     console.log("Boa noite!");
     respostaUsuario = "Não";
 }
+*/
